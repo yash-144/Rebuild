@@ -1,0 +1,12 @@
+{
+  "name": "rebuild",
+  "version": "1.0.0",
+  "description": "Rebuild — Learn with AI, rebuild it yourself",
+  "scripts": {
+    "dev": "npm --prefix app run dev",
+    "build": "npm --prefix app run build",
+    "start": "npm --prefix app run start",
+    "lint": "npm --prefix app run lint"
+  },
+  "private": true
+}
